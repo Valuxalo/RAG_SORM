@@ -1,5 +1,7 @@
-config.py
-/data
+#data
+data/*
+!data/.gitkeep
+
 # Python cache
 __pycache__/
 *.py[cod]
