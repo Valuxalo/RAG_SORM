@@ -1,6 +1,6 @@
 #data
-data/*
-!data/.gitkeep
+data/qdrant*
+!data/qdrant/.gitkeep
 
 # Python cache
 __pycache__/
