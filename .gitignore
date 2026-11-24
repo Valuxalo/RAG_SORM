@@ -1,0 +1,10 @@
+config.py
+/data
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
